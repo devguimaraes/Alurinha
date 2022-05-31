@@ -1,6 +1,6 @@
 # Alurinha
 
-![Badge](https://img.shields.io/badge/License-MIT-%237159c1?style=for-the-badge&logo=ghost)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 aprenderemos a manusear o flexbox, que é uma especificação CSS. A proposta do curso é o desenvolvimento do Alurinha, um gerenciador de cursos online, e nosso objetivo é alcançar o resultado abaixo:
 
